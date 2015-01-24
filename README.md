@@ -1,11 +1,11 @@
 # Best Practices in Computational Nuclear Engineering 
 
-## Kathryn Huff
+## Rachel Slaybaugh
 
-A presentation for the Nuclear Engineering 255 (transport methods) in Berkeley 
-California, September 11, 2014. 
+A presentation for Nuclear Engineering 24 (freshman seminar) in Berkeley 
+California, Spring 2015. 
 
-The content of this presentation is licensed to Kathryn Huff under CC-BY-4.0.
+The content of this presentation is dervied from a talk licensed to Kathryn Huff under CC-BY-4.0.
 
 Note that this presentation relies on the reveal.js framework by Hakim El
 Hattab, the license for which is held in the `LICENSE_reveal` file of this
